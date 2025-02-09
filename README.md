@@ -18,7 +18,7 @@ The dataset includes passenger details such as age, fare, gender, class, and sur
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/titanic-survival-prediction.git
+git clone https://github.com/Vitsuraj/titanic-survival-prediction.git
 cd titanic-survival-prediction
 2️⃣ Install dependencies:
 
