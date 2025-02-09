@@ -1,15 +1,19 @@
 🚢 Tabular Data Classification - Titanic Survival Prediction
+
 This repository contains a Jupyter Notebook for predicting passenger survival on the Titanic using machine learning techniques. The dataset is sourced from Kaggle's Titanic Competition.
 
 📌 Project Overview
+
 The goal of this project is to predict survival outcomes based on passenger features such as:
 
 Age
 Sex
 Passenger Class
 Fare, Embarked, Siblings/Spouses aboard, etc.
+
 📂 Repository Structure
 TATA_Titanic.ipynb → Jupyter Notebook containing data preprocessing, feature engineering, model training, and evaluation.
+
 📊 Dataset
 You can download the dataset from Kaggle's Titanic Competition.
 
@@ -36,7 +40,7 @@ The notebook explores multiple models, evaluates their accuracy, and selects the
 Key insights from data visualization
 Feature importance analysis
 Final model performance
-📜 License
+
 Machine Learning Models and Their Accuracy for Titanic Survival Prediction
 
 In this project, multiple machine learning models were implemented to predict passenger survival on the Titanic dataset. The dataset was preprocessed by handling missing values, encoding categorical variables, and engineering new features such as FamilySize.
